@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 520" role="img" aria-label="Weed-X Citrus &amp; Clove spray bottle">
+  <defs><linearGradient id="lbl_cc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7fbef"/><stop offset="1" stop-color="#d2e9bd"/></linearGradient>
+    <linearGradient id="body_cc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e99a2c"/><stop offset=".45" stop-color="#f4b860"/><stop offset="1" stop-color="#e99a2c"/></linearGradient>
+    <linearGradient id="head_cc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1b1f1d"/><stop offset=".5" stop-color="#3a403c"/><stop offset="1" stop-color="#1b1f1d"/></linearGradient>
+  </defs>
+  <ellipse cx="150" cy="506" rx="104" ry="10" fill="#000" opacity=".12"/>
+  <!-- sprayer head -->
+  <path d="M112 34 H210 Q226 34 226 50 V92 Q226 104 214 104 H118 Z" fill="url(#head_cc)"/>
+  <path d="M112 34 L58 44 Q48 46 48 56 V64 Q48 72 58 72 L118 70 Z" fill="#2b302d"/>
+  <rect x="38" y="52" width="14" height="14" rx="3" fill="#f6a623"/>
+  <path d="M126 100 Q118 128 106 150 Q100 160 110 162 Q124 158 134 130 L142 104 Z" fill="#2b302d"/>
+  <rect x="132" y="102" width="70" height="30" rx="6" fill="#f6a623"/>
+  <rect x="140" y="130" width="54" height="24" fill="#d8dedb" opacity=".9"/>
+  <!-- bottle body -->
+  <path d="M140 152 H194 Q194 178 228 196 Q252 210 252 244 V478 Q252 500 230 500 H78 Q56 500 56 478 V244 Q56 210 92 196 Q140 178 140 152 Z" fill="url(#body_cc)" opacity=".95"/>
+  <path d="M74 250 Q74 222 98 210" stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round" opacity=".55"/>
+  <rect x="236" y="250" width="6" height="210" rx="3" fill="#fff" opacity=".25"/>
+  <!-- label -->
+  <rect x="70" y="236" width="168" height="236" rx="12" fill="url(#lbl_cc)" stroke="#1f5e2e" stroke-width="3"/>
+  <path d="M70 248 Q70 236 82 236 H226 Q238 236 238 248 V296 H70 Z" fill="#1f5e2e"/>
+  <text x="154" y="280" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="34" fill="#fff" letter-spacing="1">WEED-<tspan fill="#f6a623">X</tspan></text>
+  <rect x="70" y="296" width="168" height="26" fill="#f6a623"/>
+  <text x="154" y="315" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="14" letter-spacing="2" fill="#ffffff">CITRUS &amp; CLOVE</text>
+  <g transform="translate(124 332) scale(.117)"><rect width="512" height="512" rx="116" fill="#1f5e2e"/>
+  <rect x="14" y="14" width="484" height="484" rx="104" fill="none" stroke="#2f7d40" stroke-width="6"/>
+  <g transform="rotate(35 256 256)">
+    <path d="M256 44 C 410 130 420 330 256 452 C 92 330 102 130 256 44 Z" fill="#8fd16a"/>
+    <path d="M256 44 C 410 130 420 330 256 452 Z" fill="#74bf50"/>
+    <path d="M256 84 L256 490" stroke="#1f5e2e" stroke-width="14" stroke-linecap="round"/>
+    <path d="M256 180 L330 128 M256 260 L344 200 M256 180 L182 128 M256 260 L168 200" stroke="#1f5e2e" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g stroke-linecap="round">
+    <path d="M178 178 L334 334 M334 178 L178 334" stroke="#1f5e2e" stroke-width="84"/>
+    <path d="M178 178 L334 334 M334 178 L178 334" stroke="#f6a623" stroke-width="50"/>
+  </g></g>
+  <text x="154" y="415" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="15" fill="#1f5e2e">Weed &amp; Grass Killer</text>
+  <text x="154" y="434" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11.5" fill="#355e3d">Plant-based  -  Salt-free</text>
+  <text x="84" y="460" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="12" fill="#c0392b">CAUTION</text>
+  <text x="224" y="460" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="11" fill="#1f5e2e">SHAKE WELL</text>
+</svg>

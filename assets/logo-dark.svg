@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 400" role="img" aria-label="Weed-X logo">
+  <svg x="0" y="0" width="400" height="400" viewBox="0 0 512 512"><rect width="512" height="512" rx="116" fill="#1f5e2e"/>
+  <rect x="14" y="14" width="484" height="484" rx="104" fill="none" stroke="#2f7d40" stroke-width="6"/>
+  <g transform="rotate(35 256 256)">
+    <path d="M256 44 C 410 130 420 330 256 452 C 92 330 102 130 256 44 Z" fill="#8fd16a"/>
+    <path d="M256 44 C 410 130 420 330 256 452 Z" fill="#74bf50"/>
+    <path d="M256 84 L256 490" stroke="#1f5e2e" stroke-width="14" stroke-linecap="round"/>
+    <path d="M256 180 L330 128 M256 260 L344 200 M256 180 L182 128 M256 260 L168 200" stroke="#1f5e2e" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g stroke-linecap="round">
+    <path d="M178 178 L334 334 M334 178 L178 334" stroke="#1f5e2e" stroke-width="84"/>
+    <path d="M178 178 L334 334 M334 178 L178 334" stroke="#f6a623" stroke-width="50"/>
+  </g></svg>
+  <text x="450" y="250" font-family="'Arial Black','Arial Bold',Arial,Helvetica,sans-serif" font-weight="900" font-size="190" letter-spacing="2" fill="#ffffff">WEED-<tspan fill="#f6a623">X</tspan></text>
+  <text x="456" y="325" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="44" letter-spacing="13" fill="#cfe8bf">WEEDS OUT. FAST.</text>
+</svg>
